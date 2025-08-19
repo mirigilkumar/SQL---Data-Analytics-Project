@@ -11,7 +11,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 
-👋 About Me
+## 👋 About Me
 
 Hi, I’m Mirigil Kumar M.
 I’m a US Healthcare RCM Analyst with 10+ years of experience, skilled in Python, SQL, Pandas, NumPy, Tableau, and Power BI.
