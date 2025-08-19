@@ -8,3 +8,12 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
+
+👋 About Me
+
+Hi, I’m Mirigil Kumar M.
+I’m a US Healthcare RCM Analyst with 10+ years of experience, skilled in Python, SQL, Pandas, NumPy, Tableau, and Power BI.
+
+I use data to solve problems, build insights, and share my projects here on GitHub.
